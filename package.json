@@ -22,5 +22,9 @@
   "homepage": "https://github.com/goabonga/welcome",
   "files": [
     "LICENSE"
-  ]
+  ],
+  "devDependencies": {
+    "jscs": "^1.13.1",
+    "jshint": "^2.7.0"
+  }
 }
